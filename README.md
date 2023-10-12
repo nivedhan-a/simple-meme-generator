@@ -10,4 +10,4 @@ A Simple Meme Generator application where users can create and display meme imag
 
 ```bash
 npm install
-npm start
+npm run dev
